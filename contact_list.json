@@ -1,0 +1,132 @@
+{
+  "0": {
+    "access_hash": -3.9208215975283e+18,
+    "first_name": "ندا",
+    "flags": 65537,
+    "id": "$010000004aa45e083be2a4cb877196c9",
+    "peer_id": 140420170,
+    "peer_type": "user",
+    "phone": "989198472485",
+    "print_name": "ندا"
+  },
+  "1": {
+    "access_hash": -3.648940773884e+18,
+    "first_name": "بهنام",
+    "flags": 65537,
+    "id": "$01000000df6e3109afc434f6b25b5ccd",
+    "last_name": "1",
+    "peer_id": 154234591,
+    "peer_type": "user",
+    "phone": "79192841898",
+    "print_name": "بهنام_1#1"
+  },
+  "2": {
+    "access_hash": 2.317351803113e+18,
+    "first_name": "بهنام 1",
+    "flags": 196609,
+    "id": "$01000000ee35790bbb4929e42fe32820",
+    "peer_id": 192493038,
+    "peer_type": "user",
+    "phone": "989192841898",
+    "print_name": "بهنام_1",
+    "username": "Sudo_StrongProtection"
+  },
+  "3": {
+    "access_hash": -2.1343774484383e+18,
+    "first_name": "StrongProtection3",
+    "flags": 196609,
+    "id": "$01000000a327e30cad753be1042b61e2",
+    "peer_id": 216213411,
+    "peer_type": "user",
+    "phone": "79251878775",
+    "print_name": "StrongProtection3",
+    "username": "StrongProtection_3"
+  },
+  "4": {
+    "access_hash": 8.0747491478034e+18,
+    "first_name": "ممد",
+    "flags": 65537,
+    "id": "$01000000018fd30dc956356d91450f70",
+    "last_name": "2",
+    "peer_id": 231968513,
+    "peer_type": "user",
+    "phone": "989130595759",
+    "print_name": "ممد_2"
+  },
+  "5": {
+    "access_hash": 1.3685040247043e+18,
+    "first_name": "StrongProtection_5",
+    "flags": 196609,
+    "id": "$010000004679e10f455331ea28e7fd12",
+    "peer_id": 266434886,
+    "peer_type": "user",
+    "phone": "79251875900",
+    "print_name": "StrongProtection_5",
+    "username": "STRONG_5"
+  },
+  "6": {
+    "access_hash": -6.2587280491457e+18,
+    "first_name": "ممد",
+    "flags": 65537,
+    "id": "$01000000e9950710a6bee5dcff8724a9",
+    "last_name": "3",
+    "peer_id": 268932585,
+    "peer_type": "user",
+    "phone": "989333173804",
+    "print_name": "ممد_3"
+  },
+  "7": {
+    "access_hash": -6.9031174343485e+18,
+    "first_name": "بهنام 3",
+    "flags": 65537,
+    "id": "$01000000e71177101796d98a443333a0",
+    "peer_id": 276238823,
+    "peer_type": "user",
+    "phone": "989218077473",
+    "print_name": "بهنام_3"
+  },
+  "8": {
+    "access_hash": -8.9930752320254e+17,
+    "first_name": "💢StrongProtection_4💢",
+    "flags": 589825,
+    "id": "$0100000013557a10761cad87920485f3",
+    "peer_id": 276452627,
+    "peer_type": "user",
+    "phone": "79251875903",
+    "print_name": "💢StrongProtection_4💢",
+    "username": "STRONG_4"
+  },
+  "9": {
+    "access_hash": -9.0519640217867e+18,
+    "first_name": "StrongProtection1",
+    "flags": 196609,
+    "id": "$01000000006cc5105412c979aef66082",
+    "peer_id": 281373696,
+    "peer_type": "user",
+    "phone": "79295166457",
+    "print_name": "StrongProtection1",
+    "username": "STRONG_1"
+  },
+  "10": {
+    "access_hash": -5.7266847056791e+18,
+    "first_name": "StrongProtection2",
+    "flags": 196609,
+    "id": "$01000000369c7e11970256f999ba86b0",
+    "peer_id": 293510198,
+    "peer_type": "user",
+    "phone": "79251878768",
+    "print_name": "StrongProtection2",
+    "username": "STRONG_2"
+  },
+  "11": {
+    "access_hash": -2.1154794688198e+18,
+    "first_name": "بهنام 2",
+    "flags": 196609,
+    "id": "$01000000c879af11cdec5ca3a14ea4e2",
+    "peer_id": 296712648,
+    "peer_type": "user",
+    "phone": "989226031948",
+    "print_name": "بهنام_2",
+    "username": "Str_1"
+  }
+}

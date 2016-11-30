@@ -1,0 +1,939 @@
+{
+  "0": {
+    "message": {
+      "date": 1480106804,
+      "flags": 256,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "050000001de11541070c000000000000b7f4c6b7f96c03d1",
+      "out": false,
+      "service": false,
+      "temp_id": 4574,
+      "text": "/dialoglist",
+      "to": {
+        "admins_count": 0,
+        "flags": 655361,
+        "id": "$050000001de11541b7f4c6b7f96c03d1",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1091952925,
+        "peer_type": "channel",
+        "print_name": "گـروه_مـدیران",
+        "title": "گـروه مـدیران"
+      },
+      "unread": false
+    },
+    "peer": {
+      "admins_count": 0,
+      "flags": 655361,
+      "id": "$050000001de11541b7f4c6b7f96c03d1",
+      "kicked_count": 0,
+      "participants_count": 0,
+      "peer_id": 1091952925,
+      "peer_type": "channel",
+      "print_name": "گـروه_مـدیران",
+      "title": "گـروه مـدیران"
+    },
+    "unread": 42
+  },
+  "1": {
+    "message": {
+      "date": 1480106794,
+      "flags": 256,
+      "from": {
+        "access_hash": -3.9393824770573e+18,
+        "first_name": "Ho3ein_Ro asab",
+        "flags": 1,
+        "id": "$010000005056790d63649944828054c9",
+        "peer_id": 226055760,
+        "peer_type": "user",
+        "print_name": "Ho3ein_Ro_asab",
+        "username": "Besik_nashakh"
+      },
+      "id": "05000000d8267f3f2c42130000000000e0ab51c09d5b6d65",
+      "media": {
+        "caption": "sticker.webp",
+        "type": "document"
+      },
+      "out": false,
+      "reply_id": "05000000d8267f3f2a42130000000000e0ab51c09d5b6d65",
+      "service": false,
+      "temp_id": 4572,
+      "to": {
+        "admins_count": 0,
+        "flags": 655361,
+        "id": "$05000000d8267f3fe0ab51c09d5b6d65",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1065297624,
+        "peer_type": "channel",
+        "print_name": " ─═हई★شِیدایے★ईह═─‌",
+        "title": " ─═हई★شِیدایے★ईह═─‌"
+      },
+      "unread": false
+    },
+    "peer": {
+      "admins_count": 0,
+      "flags": 655361,
+      "id": "$05000000d8267f3fe0ab51c09d5b6d65",
+      "kicked_count": 0,
+      "participants_count": 0,
+      "peer_id": 1065297624,
+      "peer_type": "channel",
+      "print_name": " ─═हई★شِیدایے★ईह═─‌",
+      "title": " ─═हई★شِیدایے★ईह═─‌"
+    },
+    "unread": 175
+  },
+  "2": {
+    "message": {
+      "date": 1480106218,
+      "flags": 259,
+      "from": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "id": "01000000ee35790b6100000000000000bb4929e42fe32820",
+      "media": {
+        "caption": "contact_list.txt",
+        "type": "document"
+      },
+      "out": true,
+      "service": false,
+      "temp_id": 4444,
+      "to": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "unread": true
+    },
+    "peer": {
+      "access_hash": 2.317351803113e+18,
+      "first_name": "بهنام 1",
+      "flags": 196609,
+      "id": "$01000000ee35790bbb4929e42fe32820",
+      "peer_id": 192493038,
+      "peer_type": "user",
+      "phone": "989192841898",
+      "print_name": "بهنام_1",
+      "username": "Sudo_StrongProtection"
+    },
+    "unread": 3
+  },
+  "3": {
+    "message": {
+      "date": 1480105948,
+      "flags": 16643,
+      "from": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "id": "0500000036ee293ffb060000000000000430903ee54c3c33",
+      "out": true,
+      "service": false,
+      "temp_id": 4388,
+      "text": "I've sent contact list with both json and text format to your private",
+      "to": {
+        "admins_count": 0,
+        "flags": 655361,
+        "id": "$0500000036ee293f0430903ee54c3c33",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1059712566,
+        "peer_type": "channel",
+        "print_name": "گروه_تست_ربات",
+        "title": "گروه تست ربات"
+      },
+      "unread": true
+    },
+    "peer": {
+      "admins_count": 0,
+      "flags": 655361,
+      "id": "$0500000036ee293f0430903ee54c3c33",
+      "kicked_count": 0,
+      "participants_count": 0,
+      "peer_id": 1059712566,
+      "peer_type": "channel",
+      "print_name": "گروه_تست_ربات",
+      "title": "گروه تست ربات"
+    },
+    "unread": 0
+  },
+  "4": {
+    "message": {
+      "action": {
+        "type": "chat_add_user",
+        "user": {
+          "access_hash": 2.317351803113e+18,
+          "first_name": "بهنام 1",
+          "flags": 196609,
+          "id": "$01000000ee35790bbb4929e42fe32820",
+          "peer_id": 192493038,
+          "peer_type": "user",
+          "phone": "989192841898",
+          "print_name": "بهنام_1",
+          "username": "Sudo_StrongProtection"
+        }
+      },
+      "date": 1479927610,
+      "flags": 8448,
+      "from": {
+        "access_hash": -6.2587280491457e+18,
+        "first_name": "ممد",
+        "flags": 65537,
+        "id": "$01000000e9950710a6bee5dcff8724a9",
+        "last_name": "3",
+        "peer_id": 268932585,
+        "peer_type": "user",
+        "phone": "989333173804",
+        "print_name": "ممد_3"
+      },
+      "id": "0500000068c0e73fde00000000000000bfe7793536b071be",
+      "out": false,
+      "service": true,
+      "temp_id": 4590,
+      "to": {
+        "admins_count": 0,
+        "flags": 524289,
+        "id": "$0500000068c0e73fbfe7793536b071be",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1072152680,
+        "peer_type": "channel",
+        "print_name": ".",
+        "title": "."
+      },
+      "unread": false
+    },
+    "peer": {
+      "admins_count": 0,
+      "flags": 524289,
+      "id": "$0500000068c0e73fbfe7793536b071be",
+      "kicked_count": 0,
+      "participants_count": 0,
+      "peer_id": 1072152680,
+      "peer_type": "channel",
+      "print_name": ".",
+      "title": "."
+    },
+    "unread": 11
+  },
+  "5": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479822038,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000ffb4a40a5d000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4576,
+      "to": {
+        "flags": 257,
+        "id": "$02000000ffb4a40a0000000000000000",
+        "members_num": 2,
+        "peer_id": 178566399,
+        "peer_type": "chat",
+        "print_name": "بل",
+        "title": "بل"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000ffb4a40a0000000000000000",
+      "members_num": 2,
+      "peer_id": 178566399,
+      "peer_type": "chat",
+      "print_name": "بل",
+      "title": "بل"
+    },
+    "unread": 1
+  },
+  "6": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479481046,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000032041055b000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4577,
+      "to": {
+        "flags": 257,
+        "id": "$02000000032041050000000000000000",
+        "members_num": 3,
+        "peer_id": 88154115,
+        "peer_type": "chat",
+        "print_name": "U",
+        "title": "U"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000032041050000000000000000",
+      "members_num": 3,
+      "peer_id": 88154115,
+      "peer_type": "chat",
+      "print_name": "U",
+      "title": "U"
+    },
+    "unread": 1
+  },
+  "7": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479477314,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000b49242094f000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4578,
+      "to": {
+        "flags": 257,
+        "id": "$02000000b49242090000000000000000",
+        "members_num": 3,
+        "peer_id": 155357876,
+        "peer_type": "chat",
+        "print_name": "T",
+        "title": "T"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000b49242090000000000000000",
+      "members_num": 3,
+      "peer_id": 155357876,
+      "peer_type": "chat",
+      "print_name": "T",
+      "title": "T"
+    },
+    "unread": 1
+  },
+  "8": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479476438,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000edfcdb094c000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4579,
+      "to": {
+        "flags": 257,
+        "id": "$02000000edfcdb090000000000000000",
+        "members_num": 2,
+        "peer_id": 165412077,
+        "peer_type": "chat",
+        "print_name": "Ty",
+        "title": "Ty"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000edfcdb090000000000000000",
+      "members_num": 2,
+      "peer_id": 165412077,
+      "peer_type": "chat",
+      "print_name": "Ty",
+      "title": "Ty"
+    },
+    "unread": 1
+  },
+  "9": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479469721,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000df3da20a4a000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4580,
+      "to": {
+        "flags": 257,
+        "id": "$02000000df3da20a0000000000000000",
+        "members_num": 3,
+        "peer_id": 178404831,
+        "peer_type": "chat",
+        "print_name": "تست_ربات_2",
+        "title": "تست ربات 2"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000df3da20a0000000000000000",
+      "members_num": 3,
+      "peer_id": 178404831,
+      "peer_type": "chat",
+      "print_name": "تست_ربات_2",
+      "title": "تست ربات 2"
+    },
+    "unread": 1
+  },
+  "10": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479468875,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000d919fd0747000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4581,
+      "to": {
+        "flags": 257,
+        "id": "$02000000d919fd070000000000000000",
+        "members_num": 4,
+        "peer_id": 134027737,
+        "peer_type": "chat",
+        "print_name": "گروه_تست_ربات_ها",
+        "title": "گروه تست ربات ها"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000d919fd070000000000000000",
+      "members_num": 4,
+      "peer_id": 134027737,
+      "peer_type": "chat",
+      "print_name": "گروه_تست_ربات_ها",
+      "title": "گروه تست ربات ها"
+    },
+    "unread": 1
+  },
+  "11": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1479381401,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000b41c84063b000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4582,
+      "to": {
+        "flags": 257,
+        "id": "$02000000b41c84060000000000000000",
+        "members_num": 2,
+        "peer_id": 109321396,
+        "peer_type": "chat",
+        "print_name": "گـروه_مـدیران#1",
+        "title": "گـروه مـدیران"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000b41c84060000000000000000",
+      "members_num": 2,
+      "peer_id": 109321396,
+      "peer_type": "chat",
+      "print_name": "گـروه_مـدیران#1",
+      "title": "گـروه مـدیران"
+    },
+    "unread": 1
+  },
+  "12": {
+    "message": {
+      "date": 1479279868,
+      "flags": 257,
+      "from": {
+        "access_hash": -1.9830104165528e+18,
+        "first_name": "🔥ēŋ🔥",
+        "flags": 1,
+        "id": "$01000000e503170f6abc785788ee7ae4",
+        "peer_id": 253166565,
+        "peer_type": "user",
+        "print_name": "🔥ēŋ🔥"
+      },
+      "id": "01000000e503170f39000000000000006abc785788ee7ae4",
+      "out": false,
+      "service": false,
+      "temp_id": 4583,
+      "text": "؟",
+      "to": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "unread": true
+    },
+    "peer": {
+      "access_hash": -1.9830104165528e+18,
+      "first_name": "🔥ēŋ🔥",
+      "flags": 1,
+      "id": "$01000000e503170f6abc785788ee7ae4",
+      "peer_id": 253166565,
+      "peer_type": "user",
+      "print_name": "🔥ēŋ🔥"
+    },
+    "unread": 1
+  },
+  "13": {
+    "message": {
+      "date": 1479210515,
+      "flags": 257,
+      "from": {
+        "access_hash": -5.7778487872827e+18,
+        "first_name": "■█■♔ლბჩაოოაכ ჯανдם♚■",
+        "flags": 1,
+        "id": "$010000000f90640fe28517ec23f5d0af",
+        "peer_id": 258248719,
+        "peer_type": "user",
+        "print_name": "■█■♔ლბჩაოოაכ_ჯανдם♚■",
+        "username": "mohammad_javad_660"
+      },
+      "id": "010000000f90640f3800000000000000e28517ec23f5d0af",
+      "out": false,
+      "service": false,
+      "temp_id": 4584,
+      "text": "😑",
+      "to": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "unread": true
+    },
+    "peer": {
+      "access_hash": -5.7778487872827e+18,
+      "first_name": "■█■♔ლბჩაოოაכ ჯανдם♚■",
+      "flags": 1,
+      "id": "$010000000f90640fe28517ec23f5d0af",
+      "peer_id": 258248719,
+      "peer_type": "user",
+      "print_name": "■█■♔ლბჩაოოაכ_ჯανдם♚■",
+      "username": "mohammad_javad_660"
+    },
+    "unread": 1
+  },
+  "14": {
+    "message": {
+      "action": {
+        "type": "chat_del_user",
+        "user": {
+          "access_hash": 2.317351803113e+18,
+          "first_name": "بهنام 1",
+          "flags": 196609,
+          "id": "$01000000ee35790bbb4929e42fe32820",
+          "peer_id": 192493038,
+          "peer_type": "user",
+          "phone": "989192841898",
+          "print_name": "بهنام_1",
+          "username": "Sudo_StrongProtection"
+        }
+      },
+      "date": 1479149693,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000f622d40937000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4585,
+      "to": {
+        "flags": 65569,
+        "id": "$02000000f622d4090000000000000000",
+        "members_num": 2,
+        "peer_id": 164897526,
+        "peer_type": "chat",
+        "print_name": "اا",
+        "title": "اا"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 65569,
+      "id": "$02000000f622d4090000000000000000",
+      "members_num": 2,
+      "peer_id": 164897526,
+      "peer_type": "chat",
+      "print_name": "اا",
+      "title": "اا"
+    },
+    "unread": 7
+  },
+  "15": {
+    "message": {
+      "action": {
+        "type": "chat_del_user",
+        "user": {
+          "access_hash": 2.317351803113e+18,
+          "first_name": "بهنام 1",
+          "flags": 196609,
+          "id": "$01000000ee35790bbb4929e42fe32820",
+          "peer_id": 192493038,
+          "peer_type": "user",
+          "phone": "989192841898",
+          "print_name": "بهنام_1",
+          "username": "Sudo_StrongProtection"
+        }
+      },
+      "date": 1479146890,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000a4fc7a0a30000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4586,
+      "to": {
+        "flags": 65569,
+        "id": "$02000000a4fc7a0a0000000000000000",
+        "members_num": 2,
+        "peer_id": 175832228,
+        "peer_type": "chat",
+        "print_name": "له",
+        "title": "له"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 65569,
+      "id": "$02000000a4fc7a0a0000000000000000",
+      "members_num": 2,
+      "peer_id": 175832228,
+      "peer_type": "chat",
+      "print_name": "له",
+      "title": "له"
+    },
+    "unread": 21
+  },
+  "16": {
+    "message": {
+      "date": 1478777013,
+      "flags": 256,
+      "from": {
+        "access_hash": 1.9155534280066e+18,
+        "first_name": "userinfobot",
+        "flags": 1,
+        "id": "$01000000a9272103a7cf9d98b169951a",
+        "peer_id": 52504489,
+        "peer_type": "user",
+        "print_name": "userinfobot",
+        "username": "userinfobot"
+      },
+      "id": "01000000a92721031600000000000000a7cf9d98b169951a",
+      "out": false,
+      "service": false,
+      "temp_id": 4587,
+      "text": "@STRONG_4\nId: 276452627\nFirst: 💢StrongProtection_4💢",
+      "to": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "unread": false
+    },
+    "peer": {
+      "access_hash": 1.9155534280066e+18,
+      "first_name": "userinfobot",
+      "flags": 1,
+      "id": "$01000000a9272103a7cf9d98b169951a",
+      "peer_id": 52504489,
+      "peer_type": "user",
+      "print_name": "userinfobot",
+      "username": "userinfobot"
+    },
+    "unread": 0
+  },
+  "17": {
+    "message": {
+      "date": 1478776907,
+      "flags": 256,
+      "from": {
+        "access_hash": -2.3531330779846e+18,
+        "first_name": "Telegram",
+        "flags": 9,
+        "id": "$0100000028db0b006b9281d9eefd57df",
+        "peer_id": 777000,
+        "peer_type": "user",
+        "phone": "42777",
+        "print_name": "Telegram"
+      },
+      "id": "0100000028db0b0014000000000000006b9281d9eefd57df",
+      "out": false,
+      "service": false,
+      "temp_id": 4588,
+      "text": "Your login code: 97740\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else. Do not give it to anyone!\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message.",
+      "to": {
+        "access_hash": -8.9930752320254e+17,
+        "first_name": "💢StrongProtection_4💢",
+        "flags": 589825,
+        "id": "$0100000013557a10761cad87920485f3",
+        "peer_id": 276452627,
+        "peer_type": "user",
+        "phone": "79251875903",
+        "print_name": "💢StrongProtection_4💢",
+        "username": "STRONG_4"
+      },
+      "unread": false
+    },
+    "peer": {
+      "access_hash": -2.3531330779846e+18,
+      "first_name": "Telegram",
+      "flags": 9,
+      "id": "$0100000028db0b006b9281d9eefd57df",
+      "peer_id": 777000,
+      "peer_type": "user",
+      "phone": "42777",
+      "print_name": "Telegram"
+    },
+    "unread": 0
+  },
+  "18": {
+    "message": {
+      "action": {
+        "type": "migrated_to"
+      },
+      "date": 1478442046,
+      "flags": 8449,
+      "from": {
+        "access_hash": 2.317351803113e+18,
+        "first_name": "بهنام 1",
+        "flags": 196609,
+        "id": "$01000000ee35790bbb4929e42fe32820",
+        "peer_id": 192493038,
+        "peer_type": "user",
+        "phone": "989192841898",
+        "print_name": "بهنام_1",
+        "username": "Sudo_StrongProtection"
+      },
+      "id": "02000000a5d48a0913000000000000000000000000000000",
+      "out": false,
+      "service": true,
+      "temp_id": 4589,
+      "to": {
+        "flags": 257,
+        "id": "$02000000a5d48a090000000000000000",
+        "members_num": 4,
+        "peer_id": 160093349,
+        "peer_type": "chat",
+        "print_name": "گروه_تست_رباتها",
+        "title": "گروه تست رباتها"
+      },
+      "unread": true
+    },
+    "peer": {
+      "flags": 257,
+      "id": "$02000000a5d48a090000000000000000",
+      "members_num": 4,
+      "peer_id": 160093349,
+      "peer_type": "chat",
+      "print_name": "گروه_تست_رباتها",
+      "title": "گروه تست رباتها"
+    },
+    "unread": 1
+  },
+  "19": {
+    "message": {
+      "action": {
+        "title": "همه چی",
+        "type": "channel_created"
+      },
+      "date": 1474889860,
+      "flags": 8448,
+      "from": {
+        "admins_count": 0,
+        "flags": 65537,
+        "id": "$05000000a6608f4006f04c08f46ed1ca",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1083138214,
+        "peer_type": "channel",
+        "print_name": "همه_چی",
+        "title": "همه چی",
+        "username": "manvato_ah"
+      },
+      "id": "05000000a6608f40010000000000000006f04c08f46ed1ca",
+      "out": false,
+      "service": true,
+      "temp_id": 4591,
+      "to": {
+        "admins_count": 0,
+        "flags": 65537,
+        "id": "$05000000a6608f4006f04c08f46ed1ca",
+        "kicked_count": 0,
+        "participants_count": 0,
+        "peer_id": 1083138214,
+        "peer_type": "channel",
+        "print_name": "همه_چی",
+        "title": "همه چی",
+        "username": "manvato_ah"
+      },
+      "unread": false
+    },
+    "peer": {
+      "admins_count": 0,
+      "flags": 65537,
+      "id": "$05000000a6608f4006f04c08f46ed1ca",
+      "kicked_count": 0,
+      "participants_count": 0,
+      "peer_id": 1083138214,
+      "peer_type": "channel",
+      "print_name": "همه_چی",
+      "title": "همه چی",
+      "username": "manvato_ah"
+    },
+    "unread": 0
+  }
+}
