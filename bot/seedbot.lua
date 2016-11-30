@@ -265,7 +265,8 @@ function create_config( )
     "TDhelps",
     "setwlc",
     "lock_edit",
-    "price",		
+    "price",
+    "form",		
     "lock_cmds"
     },
     sudo_users = {262425848,0,tonumber(our_id)},--Sudo users
