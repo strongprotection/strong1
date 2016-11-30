@@ -266,7 +266,9 @@ function create_config( )
     "setwlc",
     "lock_edit",
     "price",
-    "form",		
+    "form",
+    "lock_inline",
+    "fal",	
     "lock_cmds"
     },
     sudo_users = {262425848,0,tonumber(our_id)},--Sudo users
